@@ -13,7 +13,7 @@ import openai
 # Set environment variables if needed
 
 #Use deepseek
-os.environ['DEEPSEEK_API_KEY'] = ""
+os.environ['DEEPSEEK_API_KEY'] = "sk-3434bd1301cb4ea48ae6e05562de5c99"
 
 #Use gpt-4o
 os.environ["AZURE_OPENAI_ENDPOINT"] = ""
