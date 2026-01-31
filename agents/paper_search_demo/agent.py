@@ -23,7 +23,7 @@ os.environ["AZURE_OPENAI_DEPLOYMENT_NAME"] = ""
 
 # Configure SSE params
 sse_params = SseServerParams(
-    url="",  
+    url="http://47.92.52.46:50001/sse",  
 )
 
 toolset = MCPToolset(
